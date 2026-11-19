@@ -64,12 +64,11 @@ Never commit real private keys or production RPC credentials. Treat `.env` as se
 
 Copy trading and on-chain automation carry financial and technical risk. This software is provided as-is; you are responsible for compliance with applicable laws and for any funds you deploy.
 
-## Contact
+## 👤 Contact
 
 **DexorynLabs** — questions, integrations, or collaboration:
 
-- Telegram: [@dexoryn](https://t.me/dexoryn)
-- Discord: `dexoryn_`
+📱 **Telegram:** [@dexoryn](https://t.me/dexoryn) &nbsp; · &nbsp; 🐦 **X:** [@Dexoryn](https://x.com/Dexoryn) &nbsp; · &nbsp; 🎮 **Discord:** `dexoryn_`
 
 <p align="center">
   <img src="dexoryn_tg.jpg" alt="Telegram QR code — @dexoryn" height="300"/>
